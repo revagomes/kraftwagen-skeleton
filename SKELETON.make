@@ -33,12 +33,18 @@ projects[entity][subdir] = contrib
 projects[ctools][version] = 1.3
 projects[ctools][subdir] = contrib
 
+projects[xautoload][version] = 5.5
+projects[xautoload][subdir] = contrib
+
 ; Views
 
 projects[views][version] = 3.7
 projects[views][subdir] = contrib
 
 ; Administration
+
+projects[admin_menu][version] = 3.0-rc5
+projects[admin_menu][subdir] = contrib
 
 projects[adminimal_admin_menu][version] = 1.6
 projects[adminimal_admin_menu][subdir] = contrib
